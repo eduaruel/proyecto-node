@@ -1,0 +1,47 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "nombre": "miguel"
+    },
+    {
+      "nombre": "maria",
+      "id": 2
+    },
+    {
+      "nombre": "eduardo",
+      "id": 3
+    },
+    {
+      "nombre": "romero",
+      "id": 4
+    },
+    {
+      "nombre": "urdaneta",
+      "id": 5
+    }
+  ],
+  "tareas": [
+    {
+      "text": "proyecto 5",
+      "nombre": "miguel",
+      "id": 2,
+      "checked": false
+    },
+    {
+      "text": "proyecto",
+      "nombre": "miguel",
+      "id": 3
+    },
+    {
+      "text": "proyecto",
+      "nombre": "miguel",
+      "id": 4
+    },
+    {
+      "text": "proyecto 5",
+      "nombre": "miguel",
+      "id": 5
+    }
+  ]
+}
